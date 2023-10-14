@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/utkarsh1042005/utkarsh1042005/blob/main/20231014_102523_0000.png)
 <h1 align="center">Hi 👋, I'm Utkarsh Kumar</h1>
 <h3 align="center">A passionate undergraduate student learning and exproling the coding journey from India</h3>
 
