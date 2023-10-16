@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS,JS,C,C++,Python**
 
-- 📫 How to reach me **utkarsh.1042005@gmail.com**
+- 📫To reach me **utkarsh.1042005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
